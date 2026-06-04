@@ -22,7 +22,7 @@ name                     : "Johannes Link"
 description              : "Johannes Link's Travels through Software Development Space"
 url                      : "https://blog.johanneslink.net"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : jlink-blog/jlink-blog.github.io
+#repository               : jlink-blog/jlink-blog.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -109,7 +109,7 @@ author:
   name             : "Johannes Link"
   avatar           : "/assets/johannes.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Software Therapist"
-  location         : "Heidelberg, Germany"
+  location         : "Germany"
   email            : "business@johanneslink.net"
   links:
     - label: "Email"
