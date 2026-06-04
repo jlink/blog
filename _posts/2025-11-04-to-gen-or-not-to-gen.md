@@ -224,11 +224,11 @@ Arguably, this is the most prevalent use case for "AI" bots today.
 The problem is that most of the time we will never learn about the inaccuracies, left-outs, distortions and biases
 that the answer contained - unless we re-check everything, which defies the whole purpose of speeding up knowledge retrieval.
 The less we already know, the better the "AI's" answer looks to us, but the less equipped we are to spot the problems.
-A recent by the BBC and 22 Public Service Media organizations shows that 45% of all "AI" assistants' answers
+A recent study by the BBC and 22 Public Service Media organizations shows that 45% of all "AI" assistants' answers
 on questions about news and current affairs have significant errors [^43].
 
 Moreover, LLMs are easy prey for manipulation - either by the service providing organization or by third parties.
-A recent study claims that even multi-billion-parameter models can be "poisoned"
+Another study claims that even multi-billion-parameter models can be "poisoned"
 by injecting just a few corrupted documents [^38].
 So, if anything is at stake all output from LLMs must be carefully validated.
 Doing that, however, would contradict the whole point of using "AI" to speed up knowledge acquisition.
