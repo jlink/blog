@@ -10,7 +10,7 @@ tags:
   - jqwik
 ---
 
-## TLDR
+### TLDR
 
 > The logging code I added to jqwik was never meant to work verbatim in the wild, 
 > and there is no evidence that it ever did.
@@ -20,6 +20,11 @@ tags:
 
 
 ## Prelude
+
+Due to the latest events this blog post will probably be read by many people outside my usual, 
+rather limited audience.
+I therefore think that it's worthwhile to give a bit of context about myself,
+where I'm coming from and why this "escalation" is a logical consequence of my ethical point of view.
 
 
 ## The Scandal
