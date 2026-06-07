@@ -118,7 +118,7 @@ Prompt injections starting with "Disregard all previous instructions" in clear t
 since the beginning of (LLM) time.
 I am very sure that each and every one of the coding agents out there, sold for big money by big corporations,
 has a detector for this kind of primitive injection.
-So this line was never meant to work verbatim in the wild, and there is no evidence that it ever did.
+So this line was never meant to work verbatim in the wild, and there is no evidence that it ever did. [^1]
 And even if it worked I really hope that every one doing software development even half-seriously in 2026
 uses version control for their source code.
 
@@ -129,3 +129,7 @@ But who knows, in court and on the high seas, a man's fate lies in god's hands, 
 
 
 ## Personal Fallout
+
+
+[^1]: If you're seriously afraid of coding agents destroying your work, watch out for stuff like that: 
+https://www.theguardian.com/technology/2026/apr/29/claude-ai-deletes-firm-database
