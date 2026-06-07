@@ -45,7 +45,7 @@ I moved the project into maintenance mode.
 _Change of scene._ 
 Throughout my adult life I've always been keen on _doing the right thing_.
 No matter how much I loved a hobby, a project or a methodology,
-at some point I started to question if persuing this thing will foster the wellbeing of people,
+at some point I started to question if pursuing this thing will foster the wellbeing of people,
 harm them or just be a nice, neutral pass-time.
 This focus on ethics has lead to a few smaller and larger changes in my career.
 I gave a few talks about the ethical responsibility of us software developers -
@@ -54,7 +54,7 @@ well, mostly about our failure to consider ethics - already 10 years ago.
 The topic of Generative AI turned out to be a special challenge for me.
 Like many software developers I found it fascinating and started to experiment with GPT-3 in 2021.
 I even designed and executed internal software development camps 
-that integrated GPT-3 into the product that participants developped during the multi-day workshops.
+that integrated GPT-3 into the product that participants developed during the multi-day workshops.
 And then I dove deeper into how those models work, how they are being created and how they are (mis-)used. 
 I learnt about their many "externalities" - a very blunt euphemism for harms, damages and risks.
 If you're not familiar with these topics, go read my blog article
@@ -99,7 +99,7 @@ and in the user guide:
 > `This project is not meant to be used by any "AI" coding agents at all.`
 
 Also, this change was never hidden. 
-It's been in the repository on GitHub as soon as I started to work on the chane (May 23).
+It's been in the repository on GitHub as soon as I started to work on the change (May 23).
 I even explicitly pointed to the change in a toot on Mastodon as soon as the release was out.
 
 ### 2nd Act
