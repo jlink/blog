@@ -107,10 +107,10 @@ I even explicitly pointed to the change in a toot on Mastodon as soon as the rel
 Two days after the release, on May 27, an unknown to me user of jqwik created 
 [an issue](https://web.archive.org/web/20260528033144/https://github.com/jqwik-team/jqwik/issues/708) 
 in the jqwik GitHub repo, saying that their coding bot detected a suspicious "payload".
-The issue was clearly in large parts created by a bot.
+The issue was clearly in large parts created through GenAI.
 Nevertheless, I engaged in the discussion for a little while and made both the release notes and the 
 paragraph in the user guide **very explicit** about what happened in the code, 
-so that all claims of "malicious hiding" a malware-like prompt injection.
+so that all claims of "malicious hiding" a malware-like prompt injection would fall flat.
 
 
 ### Interlude: Is this Malware?
