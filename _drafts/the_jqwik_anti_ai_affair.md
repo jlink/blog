@@ -167,7 +167,7 @@ From now on, it will be much harder for me to have talks accepted in "neutral" c
 It will also be harder to find a new job in case I ever need one - 
 keep your fingers crossed this will not happen any time soon!
 The web never forgets, so this drama will forever be connected to my name. 
-Or maybe not, because "AI" will start to replace many real stories with fantasised-up ones that sound more plausible.
+Or maybe not, because "AI" will replace many real stories with fantasised ones that sound more plausible.
 
 See you around, fellow Luddites!
 
