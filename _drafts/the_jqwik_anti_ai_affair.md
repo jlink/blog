@@ -63,7 +63,7 @@ It comes with many references to check the claims or follow-up on specific point
 Long story short: In my moral world, **the propagation and use of _hyper-scaled generative AI_ 
 is highly unethical** - and fundamentally so. 
 You're entitled to disagree; but then - please! - make your ethical case - 
-and don't just shrug the arguments away with an ignorant  _"Well, I like it; it's useful to me!"_.
+and don't just shrug the arguments off with an ignorant  _"Well, I like it; it's useful to me!"_.
 
 
 ## The Scandal
@@ -152,7 +152,11 @@ They denied at first, but then emailed me a day later that they had removed modu
 Frankly, I did not expect that my tiny act of protest would attract so much attention.
 It's a first, but I expect that many more actions of protest against AI will follow.
 The software development community has been torn in two parts; I'm afraid the divide will get deeper.
-Being in the midst of a shitstorm is frightening, although I did not even go and read any hard-core GenAI forums or alike.
+Being in the midst of a shitstorm is frightening; 
+being called "petulant" and "childish" at my age is almost a compliment[^2].
+Getting the accusation of "unethical breach of trust", however, is not something that leaves me untouched.
+In the end, hardly anything related to ethics or morals is an undisputed call; I'll have to live with ambiguity.
+I was advised to not read any hard-core GenAI forums or alike; 
 I'm told that some of the utterances there may be litigable.
 
 I also received a lot of encouragement, and I'm deeply thankful for it.
@@ -161,17 +165,31 @@ I'm also thankful to those friends whose views on "AI coding" differ,
 but who nevertheless contacted me to say they are sorry about what's happening to me.
 
 This protest was probably also one of my last opportunities to make a visible mark on both sides of the divide.
-Some decade-long acquaintances have publicly condemned me "for my unethical breach of trust".
-Others ignore my reaching out.
+Some decade-long acquaintances have publicly condemned me.
+Others just ignore my reaching out.
 From now on, it will be much harder for me to have talks accepted in "neutral" conferences.
 It will also be harder to find a new job in case I ever need one - 
 keep your fingers crossed this will not happen any time soon!
 The web never forgets, so this drama will forever be connected to my name. 
 Or maybe not, because "AI" will replace many real stories with fantasised ones that sound more plausible.
 
-See you around, fellow Luddites!
+## What now?
+
+TODO
+- what is the outrage really about?
+- broken contract
+- security nightmare
+- lack of responsibility
+
+
+See you around, fellow Luddites[^3]!
 
 <hr>
 
 [^1]: If you're seriously afraid of coding agents destroying your work, watch out for stuff like that: 
 https://www.theguardian.com/technology/2026/apr/29/claude-ai-deletes-firm-database
+
+[^2]: Thank you, James Gosling, for also calling out the security desaster of agentic coding:
+https://www.linkedin.com/feed/update/urn:li:activity:7466701035328172034/
+
+[^3]: TODO: Unlike what you might have learned... Luddism is not...
