@@ -175,12 +175,22 @@ Or maybe not, because "AI" will replace many real stories with fantasised ones t
 
 ## What now?
 
-TODO
-- what is the outrage really about?
-- broken contract
-- security nightmare
-- lack of responsibility
+The real puzzle behind this _single line of additional logging_ is: What is the outrage really about?
+As I see it, it reveals how bad and ridiculous the whole agentic coding approach is
+in regard to security and deterministic software creation.
+If such a completely unsophisticated "attack" can break the supply chain of software development,
+what can intentional attackers with malicious or financial interests achieve?
+And there is no one to be held accountable because the slop coding machine providers exclude all liability in their TOS. 
 
+It also reveals that the fragile but mostly working contract between OSS maintainers and OSS consumers
+__has been cancelled__:
+Just continuously upgrading to the latest releases of the gazillion dependencies, 
+which you added without much consideration or due diligence,
+and hoping that things will overall turn to the better no longer works.
+As for me, the last straw that broke this contract was big-AI-tech's decision 
+to abuse my free contributions and feed their unethical statistics machines with it.
+
+These are going to be interesting times.
 
 See you around, fellow Luddites[^3]!
 
