@@ -192,4 +192,5 @@ https://www.theguardian.com/technology/2026/apr/29/claude-ai-deletes-firm-databa
 [^2]: Thank you, James Gosling, for also calling out the security desaster of agentic coding:
 https://www.linkedin.com/feed/update/urn:li:activity:7466701035328172034/
 
-[^3]: TODO: Unlike what you might have learned... Luddism is not...
+[^3]: Unlike what you might have learned about the 19th-century Luddites they were **not** an anti-tech crowd who refused to accept the future. Instead, they were tech-savvy but independent workers who opposed the factory owners' goal to use machines as a means of worker suppression.
+If you are interested in how that relates to today's rebellion against "AI" I recommend the book 'Blood in the Machine: The Origins of the Rebellion Against Big Tech' by Brian Merchant.
