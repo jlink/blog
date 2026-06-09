@@ -26,16 +26,15 @@ tags:
 Due to the latest events this blog post will probably be read by many people outside my usual, 
 rather limited audience.
 I therefore think that it's worthwhile to give a bit of context about myself,
-where I'm coming from and why this "escalation" is a logical consequence of my ethical point of view.
-Or maybe not; the attention span of the web is short...
+where I'm coming from, and why this "escalation" is a logical consequence of my ethical stance.
 
 I've been a programmer for 45 years, which is more than 3 quarters of my life.
 I've coded for money in half a dozen programming languages, 
 and used another dozen for learning, teaching and experimenting.
 My first contributions to what was then called "public domain software" happened in the early 1990s.
-Ever sind I created or contributed to quite a few Open Source projects, 
+Ever since I created or contributed to quite a few Open Source projects, 
 the best known of which are Groovy - the programming language - and JUnit 5 - the JVM testing platform.
-From 2017 till two years ago Jqwik, a test engine dedicated to property-based testing, 
+From 2017 until two years ago [Jqwik](https://jqwik.net), a test engine dedicated to property-based testing, 
 has occupied a large part of my spare time. 
 Jqwik has about 100k lines of code - tests included, external modules excluded;
 and most of those lines have been written by me.
@@ -130,7 +129,7 @@ But who knows, in court and on the high seas, a man's fate lies in god's hands, 
 
 ### 3rd Act
 
-For some reason unknown to me the GH issue about the prompt injection caught the attention of many.
+For reasons unknown to me the GH issue about the prompt injection caught the attention of many.
 Tech portals like Ars Technica and Golem published articles about the incident.
 As a consequence more folks created GH issues on many jqwik-related repositories.
 Most were along the lines "Beware, the maintainer of this repository is evil!".
@@ -149,18 +148,18 @@ They denied at first, but then emailed me a day later that they had removed modu
 
 ## Personal Fallout
 
-Frankly, I did not expect that my tiny act of protest would attract so much attention.
-It's a first, but I expect that many more actions of protest against AI will follow.
+Frankly, I did not expect that my tiny act of protest would create so much notoriety.
+It's a first for the programming world, but I expect many more actions of protest against AI to follow.
 The software development community has been torn in two parts; I'm afraid the divide will get deeper.
 Being in the midst of a shitstorm is frightening; 
 being called "petulant" and "childish" at my age is almost a compliment[^2].
 Getting the accusation of "unethical breach of trust", however, is not something that leaves me untouched.
-In the end, hardly anything related to ethics or morals is an undisputed call; I'll have to live with ambiguity.
+In the end, hardly anything related to ethics is an undisputed call; I'll have to live with inner ambiguity.
 I was advised to not read any hard-core GenAI forums or alike; 
 I'm told that some of the utterances there may be litigable.
 
 I also received a lot of encouragement, and I'm deeply thankful for it.
-Without so many people being on my side, the days in the eye of the hurricane would have been much worse.
+Without so many people being on my side, the days in the eye of the hurricane would have been so much worse.
 I'm also thankful to those friends whose views on "AI coding" differ, 
 but who nevertheless contacted me to say they are sorry about what's happening to me.
 
@@ -171,16 +170,17 @@ From now on, it will be much harder for me to have talks accepted in "neutral" c
 It will also be harder to find a new job in case I ever need one - 
 keep your fingers crossed this will not happen any time soon!
 The web never forgets, so this drama will forever be connected to my name. 
-Or maybe not, because "AI" will replace many real stories with fantasised ones that sound more plausible.
+Or maybe not, because AI-driven search will replace many real stories with fantasised ones that sound more plausible.
 
 ## What now?
 
 The real puzzle behind this _single line of additional logging_ is: What is the outrage really about?
-As I see it, it reveals how bad and ridiculous the whole agentic coding approach is
+As I see it, it openly displays how bad and ridiculous the whole agentic coding approach is
 in regard to security and deterministic software creation.
 If such a completely unsophisticated "attack" can break the supply chain of software development,
 what can intentional attackers with malicious or financial interests achieve?
-And there is no one to be held accountable because the slop coding machine providers exclude all liability in their TOS. 
+And all that with no one to be held accountable; 
+the slop-coding-machine-providers made sure to **exclude all liability** in their TOS. 
 
 It also reveals that the fragile but mostly working contract between OSS maintainers and OSS consumers
 __has been cancelled__:
@@ -190,7 +190,7 @@ and hoping that things will overall turn to the better no longer works.
 As for me, the last straw that broke this contract was big-AI-tech's decision 
 to abuse my free contributions and feed their unethical statistics machines with it.
 
-These are going to be interesting times.
+These are going to be interesting times, I'm afraid.
 
 See you around, fellow Luddites[^3]!
 
