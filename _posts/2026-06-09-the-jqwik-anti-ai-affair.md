@@ -10,7 +10,7 @@ tags:
   - jqwik
 ---
 
-### TLDR
+__TL;DR:__
 
 > The logging code I added to jqwik was never meant to work verbatim in the wild, 
 > and there is no evidence that it ever did.
