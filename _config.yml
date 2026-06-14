@@ -117,7 +117,7 @@ author:
       # url: "mailto:business@johanneslink.net"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://jlink.github.io/"
+      url: "https://johanneslink.net/"
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
       url: "https://det.social/@jlink"
