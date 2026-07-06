@@ -280,7 +280,7 @@ the approach works perfectly fine for immutable models.
 - In the example above the model can be the stack implementation itself since
 the `MyStringStack` contains everything required for executing and
 checking. In other situation you might have to implement a model explicitly for testing purposes. This approach is called
-[model-based testing](https://johanneslink.net/model-based-testing/).
+[model-based testing](https://jlink.github.io/model-based-testing/).
 
 - State properties can also be used in integration testing. Consider a RESTful
 API that exposed some state. Actions might consist of sending out certain types

@@ -17,6 +17,6 @@ However, with more complex or even persistent state we have to apply another
 tool from out tool box: model-based testing.
 
 Since the approach requires a through explanation I put it
-[in a place of its own](https://johanneslink.net/model-based-testing/).
+[in a place of its own](https://jlink.github.io/model-based-testing/).
 All code and examples are
 [available ready to try](https://github.com/jlink/model-based-testing).

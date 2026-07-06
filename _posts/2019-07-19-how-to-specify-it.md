@@ -32,5 +32,5 @@ I found this paper so full of knowledge and good advice that I transferred
 the code examples for Haskell / QuickCheck to Java / jqwik. Additionally
 I adapted the text to fit these examples.
 
-[Here you can read the fully transferred paper](https://johanneslink.net/how-to-specify-it/).
+[Here you can read the fully transferred paper](https://jlink.github.io/how-to-specify-it/).
 Enjoy and comment!
