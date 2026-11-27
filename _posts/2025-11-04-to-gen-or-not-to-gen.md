@@ -477,8 +477,8 @@ created by AI prompts is obvious.
 A similar effect can also be observed in other areas.
 Studies show that poems written by LLMs are indistinguishable from those written by humans
 and that generative AI products are often rated more highly [^20].
-This can be explained by a trend towards the middle and the average, which can also be observed in the music and film scenes
-film scene: due to its basic function, GenAI cannot create anything fundamentally new,
+This can be explained by a trend towards the middle and the average, which can also be observed in the music and film scene:
+Due to its basic function, GenAI cannot create anything fundamentally new,
 but replicates familiar patterns, which is precisely why it is so well received by the public.
 
 Ironically, ‘AI’ draws its ‘creativity’ from the content of those it seeks to replace.
@@ -488,7 +488,7 @@ The creative community is the first to be seriously threatened by GenAI in its l
 
 It's not a coincidence that a big part of GenAI efforts is targeted at "democratizing art".
 This framing is completely upside down. Art has been one of the most democratic activities for a very long time.
-Everybody can do it; but not everybody wants to do put in the effort, the practicing time and the soul.
+Everybody can do it; but not everybody wants to put in the effort, the practicing time and the soul.
 Real art is not about the product but about the process, which requires real humans.
 Generating art without the friction is about getting rid of the humans in the loop - and still making money.
 
